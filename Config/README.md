@@ -26,7 +26,7 @@ git config --global user.email "youremail@example.com"
 Replace "`youremail@example.com`" with your actual email address.
 
 #### c. Verify Your Global Configuration
-To check if your global user information is correctly set, run::
+To check if your global user information is correctly set, run:
 ```js
 git config --global --list
 ```
